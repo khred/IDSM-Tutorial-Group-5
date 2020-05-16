@@ -7,7 +7,7 @@
 
 ## Tasks to Do
 ### Team Task  
-- [ ]    
+[ ]    
 - [ ]  
 ### Individual Task
 - []

@@ -9,7 +9,7 @@
 - - - -
 ## Tasks to Do
 ### Team Task  
-- [ ] Task
+- [ ] Move Google doc to ISDM project.md file
 - [ ] Task
 ### Individual Task
 - [ ] Task

@@ -34,5 +34,6 @@
 - [x] Task
 ### Individual 
 - [x] Congkai Liu - Create RM Empathy Map
-- [x] Task
+- [x] Kevin Hong - Write Problem Statement
+- [x] Kevin Hong - Write Objectives for the information system
 - - - -

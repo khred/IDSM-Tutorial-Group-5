@@ -18,7 +18,7 @@
 - [ ] Gyeongmin Ko - ove Google doc to ISDM project.md file - P2
 - [ ] Gyeongmin Ko - Create 1 Empathy Map - P2
 - [ ] Gyeongmin Ko - Create 1 HMW statemetns -P2
-- [ ] Task
+- [ ] Kevin Hong - Work on assumptions - P3
 - - - -
 ## In Progress
 ### Team Progress

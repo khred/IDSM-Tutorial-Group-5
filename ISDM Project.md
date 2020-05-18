@@ -60,6 +60,7 @@ Please inseart Stakeholder image here
 <!-- toc -->
 
 ### Empathy Design
+
 <!-- Use below HTML table fomat to update your Empathy map-----------
 
 <table width="605">
@@ -74,7 +75,7 @@ Please inseart Stakeholder image here
 				<p><strong>Think and Feel</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -84,7 +85,7 @@ Please inseart Stakeholder image here
 			<td width="122">
 				<p><strong>See</strong></p>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -95,7 +96,7 @@ Please inseart Stakeholder image here
 				<p><strong>Say</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -106,7 +107,7 @@ Please inseart Stakeholder image here
 				<p><strong>Do</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -116,7 +117,7 @@ Please inseart Stakeholder image here
 			<td width="122">
 				<p><strong>Hear</strong></p>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -127,7 +128,7 @@ Please inseart Stakeholder image here
 				<p><strong>Pain</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -138,7 +139,7 @@ Please inseart Stakeholder image here
 				<p><strong>Gain</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -162,7 +163,7 @@ Please inseart Stakeholder image here
 				<p><strong>Think and Feel</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -172,7 +173,7 @@ Please inseart Stakeholder image here
 			<td width="122">
 				<p><strong>See</strong></p>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -183,7 +184,7 @@ Please inseart Stakeholder image here
 				<p><strong>Say</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>
@@ -194,7 +195,7 @@ Please inseart Stakeholder image here
 				<p><strong>Do</strong></p>
 			</td>
 			<td width="481">
-				<p> - point <br />
+		<p> - point <br />
                     - point <br />
                     - point <br />
                     - point </p>

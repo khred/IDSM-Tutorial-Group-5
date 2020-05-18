@@ -15,7 +15,6 @@
 - [ ] Complete Backlog - P2
 - [ ] Create 4 HMW Statements - P2
 ### Individual Task
-- [ ] Gyeongmin Ko - ove Google doc to ISDM project.md file - P2
 - [ ] Gyeongmin Ko - Create 1 Empathy Map - P2
 - [ ] Gyeongmin Ko - Create 1 HMW statemetns -P2
 - [ ] Kevin Hong - Work on assumptions - P3
@@ -26,7 +25,7 @@
 - [ ] Task
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
-- [ ] Task
+- [ ] Gyeongmin Ko - move Google doc to ISDM project.md file - P2
 - - - -
 ## Done
 ### Team 

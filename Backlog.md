@@ -25,7 +25,7 @@
 - [ ] Task
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
-- [ ] Gyeongmin Ko - move Google doc to ISDM project.md file - P2
+- [ ] Gyeongmin Ko - Create 1 Empathy Map - P2
 - - - -
 ## Done
 ### Team 
@@ -35,4 +35,5 @@
 - [x] Congkai Liu - Create RM Empathy Map
 - [x] Kevin Hong - Write Problem Statement
 - [x] Kevin Hong - Write Objectives for the information system
+- [x] Gyeongmin Ko - move Google doc to ISDM project.md file - P2
 - - - -

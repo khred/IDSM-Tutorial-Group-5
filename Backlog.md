@@ -24,6 +24,7 @@
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
 - [ ] Gyeongmin Ko - Create 1 HMW statements -P2
+- [ ] Yujun Liang - Create 1 HMW statements -P2
 - - - -
 ## Done
 ### Team 
@@ -36,4 +37,6 @@
 - [x] Gyeongmin Ko - move Google doc to ISDM project.md file 
 - [x] Gyeongmin Ko - Create System Testing leader Empathy Map 
 - [x] Gyeongmin Ko - Implement Stakeholder image on the report
+- [x] Yujun Liang - Create ISD team empathy Map
+- [x] Yujun Liang - Write Assumptions
 - - - -

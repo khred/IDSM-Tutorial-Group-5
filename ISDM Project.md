@@ -225,7 +225,7 @@ Liang Yujun xxxxxxxx
 		</tr> 
         	<tr>
 			<td width="122">
-				<p><strong>Here</strong></p>
+				<p><strong>Hear</strong></p>
 			<td width="481">
 		          <p> 
                     - Team member's voice that testing interaction voice system <br />

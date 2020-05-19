@@ -15,8 +15,6 @@
 - [ ] Complete Backlog - P2
 - [ ] Create 4 HMW Statements - P2
 ### Individual Task
-- [ ] Gyeongmin Ko - Create 1 Empathy Map - P2
-- [ ] Gyeongmin Ko - Create 1 HMW statemetns -P2
 - [ ] Kevin Hong - Work on assumptions - P3
 - - - -
 ## In Progress
@@ -25,7 +23,8 @@
 - [ ] Task
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
-- [ ] Gyeongmin Ko - Create 1 Empathy Map - P2
+- [ ] Gyeongmin Ko - Create 1 HMW statements -P2
+- [ ] Gyeongmin Ko - Implement Stakeholder image on the report
 - - - -
 ## Done
 ### Team 
@@ -35,5 +34,6 @@
 - [x] Congkai Liu - Create RM Empathy Map
 - [x] Kevin Hong - Write Problem Statement
 - [x] Kevin Hong - Write Objectives for the information system
-- [x] Gyeongmin Ko - move Google doc to ISDM project.md file - P2
+- [x] Gyeongmin Ko - move Google doc to ISDM project.md file 
+- [x] Gyeongmin Ko - Create System Testing leader Empathy Map 
 - - - -

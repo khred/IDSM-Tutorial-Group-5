@@ -5,7 +5,7 @@ Kevin Hong Red xxxxxxxx
 Gyeongmin Ko  12627701  
 Cheng Zhang xxxxxxxx  
 Congkai Liu xxxxxxxx   
-Liang Yujun xxxxxxxx  
+Liang Yujun 12786277  
 - - - - - - - -
 ## Table of Contents 
 
@@ -263,6 +263,102 @@ Liang Yujun xxxxxxxx
 	</tbody>
 </table>
     
+<!—Yujun Liang Eempathy map. -->
+<table width="605">
+	<tbody>
+		<tr>
+			<td colspan="2" width="1000">
+				<p><strong>Empathy Map -&nbsp;Information system development team </strong></p>               
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Think and Feel</strong></p>
+			</td>
+			<td width="481">
+		          <p>
+                    - How can we deliver an information system to develop the operation of in-house call management centre  <br />
+                    - No clue with the plan for building the new system, feel confused.<br />
+                    - Considering what kind of server and developing environment is suitable for the new system.  <br />
+                    - Should we develop a user guide for first-time use? <br />
+                    />
+                </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>See</strong></p>
+			<td width="481">
+		           <p> 
+                    - There is no existing information system for matching suitable RM to the specific customer, each call is assigned to a random RM,  the RM’s skill may not  match customer needs <br />
+                    
+                 </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Say</strong></p>
+			</td>
+			<td width="481">
+		          <p> 
+                    - What kind of system and function do you want to develop? <br />
+                    - How do you match RM and the customer( the criteria)?<br />
+                    - What User interface style you preferred?<br />
+                    - Presenting new system to all employees. 
+                 </p>
+			</td>
+		</tr>
+		<tr>        
+			<td width="122">
+				<p><strong>Do</strong></p>
+			</td>
+			<td width="481">
+                    <p> 
+                    - Develop a new system based on the requirement from RM and Customer. <br />
+                    - modifying the new system based on the suggestion from the System test team. <br />
+                    - Report the process of the new system to the project manager. <br />
+                    - Debug and maintaining the system.
+                 </p>
+			</td>
+		</tr> 
+        	<tr>
+			<td width="122">
+				<p><strong>Hear</strong></p>
+			<td width="481">
+		          <p> 
+                    - Project manager asking finish the new system before the deadline <br />
+                    - The complaint from the customer regarding they want a skilled and well-matched customer <br />
+                    - The test result and suggestion from the system test team.ort  <br />
+                    - The complaint from the user unfamiliar with the new system  
+                </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Pain</strong></p>
+			<td width="481">
+		          <p> 
+                    - A large database and matching system requires a lot of resources, including space, server and time consuming(coding) <br />
+                    - Hard to build a customized information system without previous, existing examples. <br />
+                    - Hard to meet all requirement from project manager and Test team<br />
+                   
+                </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Gain</strong></p>
+			<td width="481">
+		          <p> 
+                    - After development, their holiday packages sales benefit from the new system, sales increased, they got the pay  <br />
+                    - Develop their skill regarding building a  customized information system <br />
+                    - Satisfaction from RM a customer by providing a new information system.. <br />
+                    - Through working with the other team, they gain communication skill. <br />
+                </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
     
             
 ### How Might We Statements 

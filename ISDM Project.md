@@ -53,7 +53,7 @@ Liang Yujun xxxxxxxx
 <!-- toc -->
 
 ## Stakeholders
-Please inseart Stakeholder image here
+![Travel call centre Stakeholder](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Stakeholder_v2.jpg)
 
 ## Design approach
 > Please write description of design approach here

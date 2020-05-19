@@ -241,10 +241,9 @@ Please inseart Stakeholder image here
 			<td width="481">
 		          <p> 
                     - Repeat the same test process when ISD Team modifies the system regarding small or large changes<br />
-                    - Mentally pain due to understaff   
-                    &nbsp;&nbsp;&nbsp; - Need more staff to reduce the workload  
-                    &nbsp;&nbsp;&nbsp; - Able to provide more accurate and detail feedback with flexible time management<br />
-                    - slowly cussing damage on every team member’s vocal cords due to testing interaction voice system. <br />
+                    - Need to recruit more staff to reduce the workload <br />
+                    - Require flexible time mangement to provide more accurate and detail feedback <br />
+                    - Slowly cussing damage on every team member’s vocal cords due to testing interaction voice system. <br />
                 </p>
 			</td>
 		</tr>

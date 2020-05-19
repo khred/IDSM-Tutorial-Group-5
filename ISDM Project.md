@@ -68,6 +68,7 @@ Please inseart Stakeholder image here
 		<tr>
 			<td colspan="2" width="1000">
 				<p><strong>Empathy Map -&nbsp;Type your stakeholder here</strong></p>
+				Please write "WHO are we empathizing" part from empathy map here
 			</td>
 		</tr>
 		<tr>
@@ -102,7 +103,7 @@ Please inseart Stakeholder image here
                     - point </p>
 			</td>
 		</tr>
-		<tr>
+		<tr>        
 			<td width="122">
 				<p><strong>Do</strong></p>
 			</td>
@@ -112,21 +113,10 @@ Please inseart Stakeholder image here
                     - point <br />
                     - point </p>
 			</td>
-		</tr>
-		<tr>
-			<td width="122">
-				<p><strong>Hear</strong></p>
-			<td width="481">
-		<p> - point <br />
-                    - point <br />
-                    - point <br />
-                    - point </p>
-			</td>
-		</tr>
+		</tr>        
 		<tr>
 			<td width="122">
 				<p><strong>Pain</strong></p>
-			</td>
 			<td width="481">
 		<p> - point <br />
                     - point <br />
@@ -137,7 +127,6 @@ Please inseart Stakeholder image here
 		<tr>
 			<td width="122">
 				<p><strong>Gain</strong></p>
-			</td>
 			<td width="481">
 		<p> - point <br />
                     - point <br />
@@ -148,14 +137,15 @@ Please inseart Stakeholder image here
 	</tbody>
 </table>
 
--->
+ -->
 
 <!-- Gyeongmin Ko Eempathy map. -->
 <table width="605">
 	<tbody>
 		<tr>
 			<td colspan="2" width="1000">
-				<p><strong>Empathy Map -&nbsp;System Testing Team</strong></p>
+				<p><strong>Empathy Map -&nbsp;System Testing leader</strong></p>
+				Due to the understaffed issue, system testing team is not able to deliver enough system testing analyses report with various measures and advise modifications/re-verification to the information system development team.                
 			</td>
 		</tr>
 		<tr>
@@ -163,20 +153,22 @@ Please inseart Stakeholder image here
 				<p><strong>Think and Feel</strong></p>
 			</td>
 			<td width="481">
-		<p> - point <br />
-                    - point <br />
-                    - point <br />
-                    - point </p>
+		<p> - how can we deliver perfect system testing to ensure to provide correct information process to the customers <br />
+                    - Feel pressured due to our team did not deliver enough feedback to the Information system Development (ISD) team.<br />
+                    - Feeling physically exhausted because of the understaffed on our team.  <br />
+                    - How can we deliver fast and accurate test report to the ISD team? <br />
+                    - Should we develop the testing tool that helps us regarding our current project?<br />
+                </p>
 			</td>
 		</tr>
 		<tr>
 			<td width="122">
 				<p><strong>See</strong></p>
 			<td width="481">
-		<p> - point <br />
-                    - point <br />
-                    - point <br />
-                    - point </p>
+		<p> - See team members watching computer all day, writing report, develop etc <br />
+                    - ISD team leader talking to our team to provide them with testing report <br />
+                    - Team member testing interaction voice system by using phone
+                </p>
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +182,7 @@ Please inseart Stakeholder image here
                     - point </p>
 			</td>
 		</tr>
-		<tr>
+		<tr>        
 			<td width="122">
 				<p><strong>Do</strong></p>
 			</td>
@@ -200,9 +192,30 @@ Please inseart Stakeholder image here
                     - point <br />
                     - point </p>
 			</td>
+		</tr>        
+		<tr>
+			<td width="122">
+				<p><strong>Pain</strong></p>
+			<td width="481">
+		<p> - point <br />
+                    - point <br />
+                    - point <br />
+                    - point </p>
+			</td>
 		</tr>
 		<tr>
+			<td width="122">
+				<p><strong>Gain</strong></p>
+			<td width="481">
+		<p> - point <br />
+                    - point <br />
+                    - point <br />
+                    - point </p>
+			</td>
+		</tr>
+	</tbody>
 </table>
+    
     
             
 ### How Might We Statements 

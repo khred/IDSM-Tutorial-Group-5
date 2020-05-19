@@ -76,20 +76,24 @@ Please inseart Stakeholder image here
 				<p><strong>Think and Feel</strong></p>
 			</td>
 			<td width="481">
-		<p> - point <br />
+		          <p> 
                     - point <br />
                     - point <br />
-                    - point </p>
+                    - point <br />
+                    - point 
+               	 </p>
 			</td>
 		</tr>
 		<tr>
 			<td width="122">
 				<p><strong>See</strong></p>
 			<td width="481">
-		<p> - point <br />
+		            <p> 
                     - point <br />
                     - point <br />
-                    - point </p>
+                    - point <br />
+                    - point 
+                </p>
 			</td>
 		</tr>
 		<tr>
@@ -97,10 +101,12 @@ Please inseart Stakeholder image here
 				<p><strong>Say</strong></p>
 			</td>
 			<td width="481">
-		<p> - point <br />
+                    <p> 
                     - point <br />
                     - point <br />
-                    - point </p>
+                    - point <br />
+                    - point 
+                </p>
 			</td>
 		</tr>
 		<tr>        
@@ -108,30 +114,48 @@ Please inseart Stakeholder image here
 				<p><strong>Do</strong></p>
 			</td>
 			<td width="481">
-		<p> - point <br />
+		          <p> 
                     - point <br />
                     - point <br />
-                    - point </p>
+                    - point <br />
+                    - point 
+                </p>
 			</td>
-		</tr>        
+		</tr> 
+        <tr>
+			<td width="122">
+				<p><strong>Hear</strong></p>
+			<td width="481">
+		          <p> 
+                    - point <br />
+                    - point <br />
+                    - point <br />
+                    - point 
+                </p>
+			</td>
+		</tr>
 		<tr>
 			<td width="122">
 				<p><strong>Pain</strong></p>
 			<td width="481">
-		<p> - point <br />
+		          <p> 
                     - point <br />
                     - point <br />
-                    - point </p>
+                    - point <br />
+                    - point 
+                </p>
 			</td>
 		</tr>
 		<tr>
 			<td width="122">
 				<p><strong>Gain</strong></p>
 			<td width="481">
-		<p> - point <br />
+		          <p> 
                     - point <br />
                     - point <br />
-                    - point </p>
+                    - point <br />
+                    - point 
+                </p>
 			</td>
 		</tr>
 	</tbody>
@@ -153,7 +177,8 @@ Please inseart Stakeholder image here
 				<p><strong>Think and Feel</strong></p>
 			</td>
 			<td width="481">
-		<p> - how can we deliver perfect system testing to ensure to provide correct information process to the customers <br />
+		          <p>
+                    - how can we deliver perfect system testing to ensure to provide correct information process to the customers <br />
                     - Feel pressured due to our team did not deliver enough feedback to the Information system Development (ISD) team.<br />
                     - Feeling physically exhausted because of the understaffed on our team.  <br />
                     - How can we deliver fast and accurate test report to the ISD team? <br />
@@ -165,10 +190,11 @@ Please inseart Stakeholder image here
 			<td width="122">
 				<p><strong>See</strong></p>
 			<td width="481">
-		<p> - See team members watching computer all day, writing report, develop etc <br />
+		           <p> 
+                    - See team members watching the computer screen all day, writing a report <br />
                     - ISD team leader talking to our team to provide them with testing report <br />
-                    - Team member testing interaction voice system by using phone
-                </p>
+                    - Team member testing and review the system manually
+                 </p>
 			</td>
 		</tr>
 		<tr>
@@ -176,10 +202,12 @@ Please inseart Stakeholder image here
 				<p><strong>Say</strong></p>
 			</td>
 			<td width="481">
-		<p> - point <br />
-                    - point <br />
-                    - point <br />
-                    - point </p>
+		          <p> 
+                    - Discussing the result and recommend modifications with the Project manager and ISD team <br />
+                    - Speaking to the team regarding the system  <br />
+                    - Talking to the interaction novice system for testing  <br />
+                    - Presenting result to the ISD Team and Project manager 
+                 </p>
 			</td>
 		</tr>
 		<tr>        
@@ -187,30 +215,50 @@ Please inseart Stakeholder image here
 				<p><strong>Do</strong></p>
 			</td>
 			<td width="481">
-		<p> - point <br />
-                    - point <br />
-                    - point <br />
-                    - point </p>
+                    <p> 
+                    - Creating a summary report for ISD Team and Project Manager <br />
+                    - Testing on the Interaction voice system  <br />
+                    - Advise any recommendation/modification with ISD Team <br />
+                    - Talking to the team regarding assigned tasks.
+                 </p>
 			</td>
-		</tr>        
+		</tr> 
+        	<tr>
+			<td width="122">
+				<p><strong>Here</strong></p>
+			<td width="481">
+		          <p> 
+                    - Team member's voice that testing interaction voice system <br />
+                    - Team complain regarding understaffed <br />
+                    - Project manager and ISD team asking for the report  <br />
+                    - Mechanical Interaction voice from the phone or speaker 
+                </p>
+			</td>
+		</tr>
 		<tr>
 			<td width="122">
 				<p><strong>Pain</strong></p>
 			<td width="481">
-		<p> - point <br />
-                    - point <br />
-                    - point <br />
-                    - point </p>
+		          <p> 
+                    - Repeat the same test process when ISD Team modifies the system regarding small or large changes<br />
+                    - Mentally pain due to understaff   
+                    &nbsp;&nbsp;&nbsp; - Need more staff to reduce the workload  
+                    &nbsp;&nbsp;&nbsp; - Able to provide more accurate and detail feedback with flexible time management<br />
+                    - slowly cussing damage on every team member’s vocal cords due to testing interaction voice system. <br />
+                </p>
 			</td>
 		</tr>
 		<tr>
 			<td width="122">
 				<p><strong>Gain</strong></p>
 			<td width="481">
-		<p> - point <br />
-                    - point <br />
-                    - point <br />
-                    - point </p>
+		          <p> 
+                    - The qualified interaction voice system will provide benefits to the company  <br />
+                    - Faster caller matching process  <br />
+                    - Satisfy customer by providing correct information system technology to save time. <br />
+                    - Improve technical knowledge regarding the interaction system and database implement system  <br />
+                    - Built a better relationship with another team by providing them with the quality result. <br />
+                </p>
 			</td>
 		</tr>
 	</tbody>

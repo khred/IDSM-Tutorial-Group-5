@@ -281,8 +281,7 @@ Liang Yujun 12786277
                     - No clue with the plan for building the new system, feel confused.<br />
                     - Considering what kind of server and developing environment is suitable for the new system.  <br />
                     - Should we develop a user guide for first-time use? <br />
-                   
-                </p>
+                                   </p>
 			</td>
 		</tr>
 		<tr>
@@ -291,8 +290,7 @@ Liang Yujun 12786277
 			<td width="481">
 		           <p> 
                     - There is no existing information system for matching suitable RM to the specific customer, each call is assigned to a random RM,  the RM’s skill may not  match customer needs <br />
-                    
-                 </p>
+                                    </p>
 			</td>
 		</tr>
 		<tr>
@@ -341,8 +339,7 @@ Liang Yujun 12786277
                     - A large database and matching system requires a lot of resources, including space, server and time consuming(coding) <br />
                     - Hard to build a customized information system without previous, existing examples. <br />
                     - Hard to meet all requirement from project manager and Test team<br />
-                   
-                </p>
+                              </p>
 			</td>
 		</tr>
 		<tr>

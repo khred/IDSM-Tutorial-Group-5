@@ -24,7 +24,6 @@
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
 - [ ] Gyeongmin Ko - Create 1 HMW statements -P2
-- [ ] Gyeongmin Ko - Implement Stakeholder image on the report
 - - - -
 ## Done
 ### Team 
@@ -36,4 +35,5 @@
 - [x] Kevin Hong - Write Objectives for the information system
 - [x] Gyeongmin Ko - move Google doc to ISDM project.md file 
 - [x] Gyeongmin Ko - Create System Testing leader Empathy Map 
+- [x] Gyeongmin Ko - Implement Stakeholder image on the report
 - - - -

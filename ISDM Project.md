@@ -281,7 +281,7 @@ Liang Yujun 12786277
                     - No clue with the plan for building the new system, feel confused.<br />
                     - Considering what kind of server and developing environment is suitable for the new system.  <br />
                     - Should we develop a user guide for first-time use? <br />
-                    />
+                   
                 </p>
 			</td>
 		</tr>

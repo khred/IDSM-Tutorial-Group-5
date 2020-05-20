@@ -37,4 +37,5 @@
 - [x] Gyeongmin Ko - Create System Testing leader Empathy Map 
 - [x] Gyeongmin Ko - Implement Stakeholder image on the report
 - [x] Kevin Hong - Work on assumptions
+- [x] Kevin Hong - Move Google doc to ISDM project.md file
 - - - -

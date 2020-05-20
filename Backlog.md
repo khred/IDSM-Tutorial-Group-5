@@ -15,7 +15,7 @@
 - [ ] Complete Backlog - P2
 - [ ] Create 4 HMW Statements - P2
 ### Individual Task
-- [ ] Kevin Hong - Work on assumptions - P3
+- [ ] Kevin Hong - Move Google doc to ISDM project.md file - P2
 - - - -
 ## In Progress
 ### Team Progress
@@ -36,4 +36,5 @@
 - [x] Gyeongmin Ko - move Google doc to ISDM project.md file 
 - [x] Gyeongmin Ko - Create System Testing leader Empathy Map 
 - [x] Gyeongmin Ko - Implement Stakeholder image on the report
+- [x] Kevin Hong - Work on assumptions
 - - - -

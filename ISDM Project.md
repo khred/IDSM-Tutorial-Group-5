@@ -42,14 +42,20 @@ Liang Yujun 12786277
 
 ## Problems and objective
 ### Problems
-> Please write Problem here
-<!-- toc -->
+The current solution of managing calls for this travel company’s call centre is unnecessarily complicated and due to having many holiday packages of different nature and type it is extremely difficult for the relationship managers (RM) to be able to provide a personalised and quality service to every customer. 
 
 ### Objective
-> Please write Objective here
+1. Store information on relationship managers relating to their age, sex, culture, language proficiency, experience and product knowlege in “RM Profiles”
+2. Use both the inbuilt RM Profiles and Profiler Tool to match relationship managers with high product knowledge to customer segments most likely to purchase that product.
+3. Use ongoing information such as how effective and efficient relationship managers are in selling packages to customers and updating that in their RM Profile.
+4. For outbound calls the system needs to extrapolate information from an external database to create a Profiler Tool and then match them with appropriate relationship managers based on their RM Profiles.
+5. Score customers who are more likely to call back on a scale of 1-10 based on factors such as if they repeat call and match them to appropriate relationship managers
+6. Have a Interactive Voice Response to gather information from the customers when they call to build their customer profile
+7. Have another interactive voice response during periods of high calls that asks more in depth questions to reduce perceived wait times for the customer and build a more comprehensive customer profile.
+8. Overall speed up the calling process to reduce lost sales due to long wait times
+
 
 ### Assumption 
-> Please write Assumption  here
 1. The system will be easy enough to use with little training
 2. The system will not be bottlenecked by hardware and respond quickly
 3. Employees will be the main conveyor of information about holiday packages to customers and will be have a role in processing the sale 

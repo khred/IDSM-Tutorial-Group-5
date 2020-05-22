@@ -469,11 +469,11 @@ The current solution of managing calls for this travel company’s call centre i
 ### How Might We Statements 
 **Realtionship Manager**
 
-How might we reduce work pressure for RM
-How might we increase the probability of a customer successfully placing an order
-How might we establish long-term cooperation with customers
-How might we increase RM's enthusiasm and motivation for work
-How might we improve the company's reputation in order to attract more customers
+- How might we reduce work pressure for RM
+- How might we increase the probability of a customer successfully placing an order
+- How might we establish long-term cooperation with customers
+- How might we increase RM's enthusiasm and motivation for work
+- How might we improve the company's reputation in order to attract more customers
 
 
 

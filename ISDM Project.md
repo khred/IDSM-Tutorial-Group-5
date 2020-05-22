@@ -57,11 +57,11 @@ The current solution of managing calls for this travel company’s call centre i
 
 ### Assumption 
 1. The system will be easy enough to use with little training
-2. The system will not be bottlenecked by hardware and respond quickly
+2. The system will not be bottlenecked by hardware and will constantly be upgraded as needed
 3. Employees will be the main conveyor of information about holiday packages to customers and will be have a role in processing the sale 
 4.There will be continued software updates and bug fixes to keep the system working as expected
 5. It is assumed that with the system it will raise sales by improving how calls are allocated to relationship managers
-6. It is assumed that the system is able to process human voices gathered from the interactive voice response amd cahnge it to text that can be used to create a customer profile
+6. It is assumed that the system is able to process human voices gathered from the interactive voice response and change it to text that can be used to create a customer profile
 
 ## Stakeholders
 ![Travel call centre Stakeholder](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Stakeholder_v2.jpg)

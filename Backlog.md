@@ -9,13 +9,11 @@
 - - - -
 ## Tasks to Do
 ### Team Task  
-- [ ] Move Google doc to ISDM project.md file - P2 
-- [ ] Develop Assumptions - P3
 - [ ] Complete 4 Empathy map - P2 
 - [ ] Complete Backlog - P2
 - [ ] Create 4 HMW Statements - P2
 ### Individual Task
-- [ ] Kevin Hong - Move Google doc to ISDM project.md file - P2
+- [ ] 
 - - - -
 ## In Progress
 ### Team Progress

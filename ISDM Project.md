@@ -367,6 +367,103 @@ The current solution of managing calls for this travel company’s call centre i
 		</tr>
 	</tbody>
 </table>
+
+<!-- Congkai Liu Eempathy map. -->
+<table width="605">
+	<tbody>
+		<tr>
+			<td colspan="2" width="1000">
+				<p><strong>Empathy Map -&nbsp;Relationship Manager</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Think and Feel</strong></p>
+			</td>
+			<td width="481">
+		          <p> 
+                    - How to find interested customers <br />
+                    - How do I please customers <br />
+                    - Can I retain customers and maintain long-term cooperation <br />
+                    - How to get customers to pay 
+               	 </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>See</strong></p>
+			<td width="481">
+		            <p> 
+                    - Colleagues are under pressure <br />
+                    - Very little rest time <br />
+                    - Competition among tourism companies <br /> 
+                </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Say</strong></p>
+			</td>
+			<td width="481">
+                    <p> 
+                    - What kind of package do you want to know <br />
+                    - What is your price budget <br />
+                    - If you are not satisfied, I can introduce other content for you <br />
+                </p>
+			</td>
+		</tr>
+		<tr>        
+			<td width="122">
+				<p><strong>Do</strong></p>
+			</td>
+			<td width="481">
+		          <p> 
+                    - Spend more time looking for customers <br />
+                    - Learn more about what customers are interested in <br />
+                </p>
+			</td>
+		</tr> 
+        <tr>
+			<td width="122">
+				<p><strong>Hear</strong></p>
+			<td width="481">
+		          <p> 
+                    - Colleagues complain that they need to answer too many calls a day <br />
+                    - The boss said to be supreme for every customer <br />
+                    - Friends say I'm listening to the phone all day <br />
+                </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Pain</strong></p>
+			<td width="481">
+		          <p> 
+                    - Lose customer <br />
+                    - Can't get a generous salary <br />
+                    - Work fatigue every day <br />
+                    - Be thoughtful when talking to customers 
+                </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="122">
+				<p><strong>Gain</strong></p>
+			<td width="481">
+		          <p> 
+                    - want to have more customers <br />
+                    - stablish long-term cooperation with customers <br />
+                    - Each phone call does not need to waste too much time <br />
+                    - Higher performance，Get more commission 
+                </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</table>
+
+
     
             
 ### How Might We Statements 

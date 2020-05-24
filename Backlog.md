@@ -17,7 +17,7 @@
 - - - -
 ## In Progress
 ### Team Progress
-- [ ] Complete Customer Empathy Map - Kevin Hong
+- [ ] 
 - [ ] Task
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
@@ -36,4 +36,5 @@
 - [x] Gyeongmin Ko - Implement Stakeholder image on the report
 - [x] Kevin Hong - Work on assumptions
 - [x] Kevin Hong - Move Google doc to ISDM project.md file
+- [x] Customer Empathy Map - Kevin Hong
 - - - -

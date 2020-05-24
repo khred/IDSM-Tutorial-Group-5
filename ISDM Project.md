@@ -461,8 +461,7 @@ The current solution of managing calls for this travel company’s call centre i
 	</tbody>
 </table>
 
-
-
+</table>
 <table width="605">
 	<tbody>
 		<tr>

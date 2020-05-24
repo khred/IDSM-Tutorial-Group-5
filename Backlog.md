@@ -17,7 +17,7 @@
 - - - -
 ## In Progress
 ### Team Progress
-- [ ] Task
+- [ ] Complete Customer Empathy Map - Kevin Hong
 - [ ] Task
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 

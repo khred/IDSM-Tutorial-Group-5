@@ -462,15 +462,15 @@ The current solution of managing calls for this travel company’s call centre i
 </table>
 
 </table>
+
+
 <table width="605">
 	<tbody>
 		<tr>
 			<td colspan="2" width="1000">
 				<p><strong>Empathy Map -&nbsp;Customer</strong></p>
-				Please write "WHO are we empathizing" part from empathy map here
 			</td>
 		</tr>
-		
 		<tr>
 			<td width="122">
 				<p><strong>Think and Feel</strong></p>
@@ -481,7 +481,6 @@ The current solution of managing calls for this travel company’s call centre i
                     - I want to talk to someone knowledgable about what they are talking about <br />
                     - I want a holiday package that is that will best suit my needs
 		    <br />
-                    - point 
                	 </p>
 			</td>
 		</tr>
@@ -490,10 +489,7 @@ The current solution of managing calls for this travel company’s call centre i
 				<p><strong>See</strong></p>
 			<td width="481">
 		            <p> 
-                    - I see many different websites selling many similar holiday packages <br />
-                    - point <br />
-                    - point <br />
-                    - point 
+              - I see many different websites selling many similar holiday packages <br />
                 </p>
 			</td>
 		</tr>
@@ -503,10 +499,9 @@ The current solution of managing calls for this travel company’s call centre i
 			</td>
 			<td width="481">
                     <p> 
-                    - Talking to Relationship managers about what they expect out of a holiday package <br />
+		    - Talking to Relationship managers about what they expect out of a holiday package <br />
                     - Talking to the automated voice and giving them information about their needs, wants and budget <br />
                     - Ask questions about the difference between holiday packages and customisation options <br />
-                 
                 </p>
 			</td>
 		</tr>
@@ -516,10 +511,9 @@ The current solution of managing calls for this travel company’s call centre i
 			</td>
 			<td width="481">
 		          <p> 
-                    - Call the travel agency to get information about what's available <br />
-                    - Book holiday packages <br />
-                    -  <br />
-                    - 
+                    - The different variety of packages available from the relationship managers <br />
+                    - The voice of the automated voice system <br />
+                    - The voice of the relationship managers <br />
                 </p>
 			</td>
 		</tr> 
@@ -531,7 +525,6 @@ The current solution of managing calls for this travel company’s call centre i
                     - The different variety of packages available from the relationship managers <br />
                     - The voice of the automated voice system <br />
                     - The voice of the relationship managers <br />
-                    
                 </p>
 			</td>
 		</tr>
@@ -542,8 +535,7 @@ The current solution of managing calls for this travel company’s call centre i
 		          <p> 
                     - Having an overwhelming amount of information available on the internet <br />
                     - Having many different places to travel to with a wide variety of different things to do but not knowing which one would be best <br />
-                    - Having many types of holiday packages for with different advantages and disadvantages and costs and being unable to know which one will be the best <br />
-                    
+                    - Having many types of holiday packages for with different advantages and disadvantages and costs and being unable to know which one will be the best <br /> 
                 </p>
 			</td>
 		</tr>
@@ -555,7 +547,7 @@ The current solution of managing calls for this travel company’s call centre i
                     - Have someone give them a holiday destination and package that has good value and has features that customers actually want <br />
                     - Save time and money <br />
                     - Getting a better holiday than they would have gotten without the new system <br />
-                    - Have less stress and peace of mind that they got the best package possible
+                    - Have less stress and peace of mind that they got the best package possible 
                 </p>
 			</td>
 		</tr>

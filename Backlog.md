@@ -16,11 +16,14 @@
 - - - -
 ## In Progress
 ### Team Progress
-- [ ] 
-- [ ] Task
+- [ ] Diagrams -P2
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
-- [ ] Gyeongmin Ko - Create 1 HMW statements -P2
+- [ ] Gyeongmin Ko - Create HMW statements for stakeholders-P2
+- [ ] Kevin - Use case Diagram - p2
+- [ ] Congkai - Activity diagrams -p2
+- [ ] Cheng Zhang - Class diagrams P2
+- [ ] Yujun - Collaborative Diagrams p2
 - - - -
 ## Done
 ### Team 

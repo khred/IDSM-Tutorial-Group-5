@@ -327,7 +327,7 @@ The current solution of managing calls for this travel company’s call centre i
                     - modifying the new system based on the suggestion from the System test team. <br />
                     - Report the process of the new system to the project manager. <br />
                     - Debug and maintaining the system.
-                 </p>
+                </p>
 			</td>
 		</tr> 
         	<tr>

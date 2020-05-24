@@ -3,7 +3,7 @@ Information System Development methodologies Assignments   - Travel Call Centre
 ## Group 5
 Kevin Hong 13223882   
 Gyeongmin Ko  12627701  
-Cheng Zhang xxxxxxxx  
+Cheng Zhang 12717144  
 Congkai Liu 13160458   
 Liang Yujun 12786277  
 - - - - - - - -

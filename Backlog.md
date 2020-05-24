@@ -9,7 +9,6 @@
 - - - -
 ## Tasks to Do
 ### Team Task  
-- [ ] Complete 4 Empathy map - P2 
 - [ ] Complete Backlog - P2
 - [ ] Create 4 HMW Statements - P2
 ### Individual Task
@@ -36,5 +35,5 @@
 - [x] Gyeongmin Ko - Implement Stakeholder image on the report
 - [x] Kevin Hong - Work on assumptions
 - [x] Kevin Hong - Move Google doc to ISDM project.md file
-- [x] Customer Empathy Map - Kevin Hong
+- [x] Kevin Hong - Customer Empathy Map
 - - - -

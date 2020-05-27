@@ -20,10 +20,12 @@
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
 - [ ] Gyeongmin Ko - Create HMW statements for stakeholders-P2
+- [ ] Gyeongmin Ko - Create Prototype -P1
 - [ ] Kevin - Use case Diagram - p2
 - [ ] Congkai - Activity diagrams -p2
 - [ ] Cheng Zhang - Class diagrams P2
 - [ ] Yujun - Collaborative Diagrams p2
+
 - - - -
 ## Done
 ### Team 

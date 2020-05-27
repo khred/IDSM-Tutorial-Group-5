@@ -571,10 +571,13 @@ The current solution of managing calls for this travel company’s call centre i
 <!-- toc -->
 
 ### Use case diagrams
-> Please inseart use case diagrams here
+Use case diagram of interaction between Customer and Call center employee 
+![Use Case diagrams_Kevin](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Diagrams_Folder/Use%20Case%20Diagram.jpg)
 
 ### Activity diagrams
-> Please inseart Activity diagrams here
+Activity diagram explaining both in/out direction of call center system
+![Activity_Call_in_Congkai](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Diagrams_Folder/Call-in%20System.jpg)
+![Activity_Call_out_Congkai](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Diagrams_Folder/Call-Out%20System.jpg)
 
 ### Class diagrams
 > Please inseart Class diagrams here

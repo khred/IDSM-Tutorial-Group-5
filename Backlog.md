@@ -23,7 +23,7 @@
 - [ ] Gyeongmin Ko - Create Prototype -P1
 - [ ] Congkai - Activity diagrams -p2
 - [ ] Cheng Zhang - Class diagrams P2
-- [ ] Yujun - Collaborative Diagrams p2
+- [ ] Yujun - risk management -p2
 
 - - - -
 ## Done
@@ -32,6 +32,7 @@
 - [x] Task
 ### Individual 
 - [x] Congkai Liu - Create RM Empathy Map
+- [x] Yujun Liang - Create ISD team Empathy Map
 - [x] Kevin Hong - Write Problem Statement
 - [x] Kevin Hong - Write Objectives for the information system
 - [x] Gyeongmin Ko - move Google doc to ISDM project.md file 
@@ -42,4 +43,5 @@
 - [x] Kevin Hong - Customer Empathy Map
 - [x] Congkai Liu - Activity diagrams
 - [x] Kevin - Use case Diagram
+- [x] Yujun - Collaborative Diagrams 
 - - - -

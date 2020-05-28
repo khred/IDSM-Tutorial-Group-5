@@ -11,8 +11,14 @@
 ### Team Task  
 - [ ] Complete Backlog - P2
 - [ ] Create 4 HMW Statements - P2
+- [ ] Create powerpoint slides 
 ### Individual Task
-- [ ] 
+- [ ] Yujun - Risk Management
+- [ ] Cheng - Competitive advantages 
+- [ ] Congkai - Conclusion 
+- [ ] Harry - References 
+- [ ] Harry - Appendix
+- [ ] Harry - Combind Powerpoint 
 - - - -
 ## In Progress
 ### Team Progress

@@ -28,7 +28,6 @@
 - [ ] Gyeongmin Ko - Create Prototype -P1
 - [ ] Congkai - Activity diagrams -p2
 - [ ] Cheng Zhang - Class diagrams P2
-- [ ] Yujun - risk management -p2
 
 - - - -
 ## Done
@@ -51,5 +50,5 @@
 - [x] Yujun - Collaborative Diagrams
 - [x] Congkai - Conclusion
 - [x] Yujun Liang - Budget
-- [x] Yujun Liang - Risk management
+- [x] Yujun Liang - Risk and possible effects 
 - - -

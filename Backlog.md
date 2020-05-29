@@ -49,5 +49,6 @@
 - [x] Kevin Hong - Customer Empathy Map
 - [x] Congkai Liu - Activity diagrams
 - [x] Kevin - Use case Diagram
-- [x] Yujun - Collaborative Diagrams 
+- [x] Yujun - Collaborative Diagrams
+- [x] Congkai - Conclusion
 - - - -

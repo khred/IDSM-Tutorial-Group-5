@@ -13,7 +13,6 @@
 - [ ] Create 4 HMW Statements - P2
 - [ ] Create powerpoint slides 
 ### Individual Task
-- [ ] Yujun - Risk Management
 - [ ] Cheng - Competitive advantages 
 - [ ] Congkai - Conclusion 
 - [ ] Harry - References 
@@ -51,4 +50,6 @@
 - [x] Kevin - Use case Diagram
 - [x] Yujun - Collaborative Diagrams
 - [x] Congkai - Conclusion
-- - - -
+- [x] Yujun Liang - Budget
+- [x] Yujun Liang - Risk management
+- - -

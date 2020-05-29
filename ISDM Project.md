@@ -596,7 +596,7 @@ Activity diagram explaining both in/out direction of call center system
 
 
 ## Conclusion
-> Please write conclusion here
+The above is the improvement plan proposed by our group for the call center system of the travel company. Our improvement plan solves a series of problems such as the complexity of the company's package and low-quality customer service. We use a relatively simple development method to provide personalized and quality services for each customer, increasing the sales volume and reputation of the travel company. In the development process, we used the Scrum method for iterative development. Experience the advantages and disadvantages of Scrum development. In addition, through this project, we learned how to use Github and some new code, which increases our knowledge of the IT field. At the same time, we also believe that there is still room for improvement in this program improvement, and we look forward to more in-depth exploration next time.
 
 
 ## References

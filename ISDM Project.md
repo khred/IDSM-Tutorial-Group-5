@@ -750,8 +750,8 @@ Activity diagram explaining both in/out direction of call center system
     </tbody>
 </table>
 
-**Risk management and possible effects if project fails**
-**Risk factor:**
+**Risk management and possible effects if project fails**  
+**Risk factor:**  
 Technologies:
 1.	The new system may not too compatible with the legacy call system.
 2.	The Overloading issue caused by idle user and peak time calling.
@@ -767,7 +767,7 @@ Customer/RM
 1.	Unfamiliar with the UI and system functionalities.
 2.	User guide and frequently asked question constant renew among with the new system
 
-**Possible effects if project fails**
+**Possible effects if project fails**  
 If the development project fails, the major impact will be time invested and capital spent. At the current stage, The entire project plan costs $60,760.00, the waste of the capital may cause financial difficulties to the company, the capital spent can be used in other investment like advertising, it could have other feasible value. Consumed time is also another impact, including requirement gathering, scrum development, analysis, and the design of the prototype, to complete the above phases requires at least 3 months and it all wasted.
 
 

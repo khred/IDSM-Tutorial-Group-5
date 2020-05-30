@@ -563,7 +563,7 @@ The current solution of managing calls for this travel company’s call centre i
 - How might we establish long-term cooperation with customers
 - How might we increase RM's enthusiasm and motivation for work
 - How might we improve the company's reputation in order to attract more customers
-
+- How might we reduce the wait time during the peak period
 
 
 ## Work products and Models

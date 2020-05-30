@@ -580,10 +580,10 @@ Activity diagram explaining both in/out direction of call center system
 ![Activity_Call_out_Congkai](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Diagrams_Folder/Call-Out%20System.jpg)
 
 ### Class diagrams
-> Please inseart Class diagrams here
+![Class_Diagrams_Cheng](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Diagrams_Folder/Class.png)
 
 ### Collaborative Diagrams
-> Please inseart collaborative disgrams here
+![Collaborativ_Diagram_Yujun](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Diagrams_Folder/Collaborative%20diagram.jpg)
 
 
 ## Competitive advantages and Risk

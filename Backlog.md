@@ -9,31 +9,34 @@
 - - - -
 ## Tasks to Do
 ### Team Task  
-- [ ] Complete Backlog - P2
-- [ ] Create 4 HMW Statements - P2
-- [ ] Create powerpoint slides 
+- [ ] Upload Youtube Video
 ### Individual Task
-- [ ] Cheng - Competitive advantages 
-- [ ] Congkai - Conclusion 
-- [ ] Harry - References 
-- [ ] Harry - Appendix
-- [ ] Harry - Combind Powerpoint 
+- [ ] Cheng Zhang- Competitive advantages  
+- [ ] Gyeongmin Ko - References 
+- [ ] Gyeongmin Ko - Appendix
+
 - - - -
 ## In Progress
 ### Team Progress
-- [ ] Diagrams -P2
+- [ ] Create Video
+- [ ] Competitive advantages
+- [ ] Create Powerpoint slides
+
 ### Individual Progress
 - [ ] Meaningful commits from every Team member 
-- [ ] Gyeongmin Ko - Create HMW statements for stakeholders-P2
-- [ ] Gyeongmin Ko - Create Prototype -P1
-- [ ] Congkai - Activity diagrams -p2
-- [ ] Cheng Zhang - Class diagrams P2
+- [ ] Cheng - Competitive advantages
 
 - - - -
 ## Done
 ### Team 
-- [x] Task
-- [x] Task
+- [x] Defind Problems and Objective
+- [x] Discuss Stakholder
+- [x] Empathy Design
+- [x] How might we statements
+- [x] Product Prototype Model
+- [x] Create Diagrams
+- [x] Risk Management
+- [x] Diagrams
 ### Individual 
 - [x] Congkai Liu - Create RM Empathy Map
 - [x] Yujun Liang - Create ISD team Empathy Map
@@ -46,9 +49,14 @@
 - [x] Kevin Hong - Move Google doc to ISDM project.md file
 - [x] Kevin Hong - Customer Empathy Map
 - [x] Congkai Liu - Activity diagrams
-- [x] Kevin - Use case Diagram
-- [x] Yujun - Collaborative Diagrams
-- [x] Congkai - Conclusion
+- [x] Kevin Hong - Use case Diagram
+- [x] Yujun Liang - Collaborative Diagrams
+- [x] Congkai Liu- Conclusion
+- [x] Cheng Zhang - Class diagrams 
 - [x] Yujun Liang - Budget
 - [x] Yujun Liang - Risk and possible effects 
+- [x] Congkai Liu - Activity diagrams -p2
+- [x] Gyeongmin Ko - Create Prototype 
+- [x] Gyeongmin Ko - Create HMW statements for stakeholders
+- [x] Congkai Liu - Conclusion 
 - - -

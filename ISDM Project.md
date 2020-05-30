@@ -553,16 +553,40 @@ The current solution of managing calls for this travel company’s call centre i
 		</tr>
 	</tbody>
 </table>
- -->    
+  
             
 ### How Might We Statements 
-**Realtionship Manager**
+**How might we**  
+In the Definition stage, our team investigated the general problems that Travel Company currently has, such as
+- Lack of workers to deal with future customers
+- Causing un-necessary time waste for both customers and staffs.
+- The communication and contract system between the call centre and travel agents is not clear. 
+- Even if the customer is connected to the employee or relationship manager, it is difficult to obtain accurate information.
 
-- How might we reduce work pressure for RM
-- How might we increase the probability of a customer successfully placing an order
-- How might we establish long-term cooperation with customers
-- How might we increase RM's enthusiasm and motivation for work
-- How might we improve the company's reputation in order to attract more customers
+Therefore our team came up a with one clear problem statement.  
+**"How might we save time while delivering accurate information to customers and grow the company stably?**
+
+By using "How Might We" problem statement, the team classified the main statement features into three different views to effectively address the issues within the scope. 
+
+**Relationship Manager(Employee)**  
+- How might we reduce work pressure for RM  
+- How might we increase the probability of a customer successfully placing an order  
+- How might we establish long-term cooperation with customers  
+- How might we increase RM's enthusiasm and motivation for work  
+- How might we improve the company's reputation in order to attract more customers  
+
+**Travel Company CEO(Business)**
+- How might we reduce work pressure for employees within a sufficient budget.   
+- How might increase our profit,  
+- How might we provide more high-quality services to Customers  
+- How might we improve company value  
+ 
+ 
+**Customer (Consumer)**  
+- How might we deliver clearly to the relationship manager  
+- How might we save our time  
+- How might we use given information wisely 
+
 
 
 

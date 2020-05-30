@@ -563,7 +563,7 @@ The current solution of managing calls for this travel company’s call centre i
 - How might we establish long-term cooperation with customers
 - How might we increase RM's enthusiasm and motivation for work
 - How might we improve the company's reputation in order to attract more customers
-- How might we reduce the wait time during the peak period
+
 
 
 ## Work products and Models
@@ -591,8 +591,184 @@ Activity diagram explaining both in/out direction of call center system
 > Please write potential benefits to the call centre(in terms of reducing cost and being able to carry out more effective calls)
 
 ### Risk management
-> Please write possible effects if the project fails
+<table style="border: none;border-collapse:collapse;">
+    <tbody>
+        <tr>
+            <td style="border-width: 1pt;border-style: solid;border-color: black black windowtext;border-image: initial;padding: 3pt;height: 18pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:12px;font-family:"Times New Roman",serif;color:black;background:white;'>Financial Requirement</span></strong></p>
+            </td>
+            <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 3pt;height: 18pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:12px;font-family:"Times New Roman",serif;color:black;background:white;'>First Month</span></strong></p>
+            </td>
+            <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 3pt;height: 18pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:12px;font-family:"Times New Roman",serif;color:black;background:white;'>Second Month</span></strong></p>
+            </td>
+            <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 3pt;height: 18pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:12px;font-family:"Times New Roman",serif;color:black;background:white;'>Third Month</span></strong></p>
+            </td>
+            <td style="border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 3pt;height: 18pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>Cost</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>ISD team</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$14000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$14000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$14000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$42,000.00</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>Test team</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$6000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$6000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$6000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$2400.00</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>Software device, office supplies</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$2000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:justify;font-size:14px;font-family:DengXian;margin-right:24.0pt;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$2000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:justify;font-size:14px;font-family:DengXian;margin-right:15.0pt;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$2000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 24pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$6,000.00</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>Equipment Repair</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$1000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$1000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$1000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$3,000.00</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>Internet</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$120.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$120.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$120.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$360.00</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 33pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>Server, Hardware device IT infrastructure cost</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 33pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:right;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>/</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 33pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:right;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>/</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 33pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$4000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 33pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$4,000.00</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>Maintain</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:right;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>/</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:right;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>/</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$3000.00</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 15pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$3,000.00</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+        </tr>
+        <tr>
+            <td style="border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 3pt;height: 17pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><strong><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>TOTAL</span></strong></p>
+            </td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;"><br></td>
+            <td style="border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 3pt;height: 17pt;vertical-align: top;">
+                <p style="margin:0cm;margin-bottom:.0001pt;text-align:left;font-size:14px;font-family:DengXian;"><span style='font-size:10px;font-family:"Times New Roman",serif;color:black;background:white;'>$60760.00</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
+**Risk management and possible effects if project fails**
+**Risk factor:**
+Technologies:
+1.	The new system may not too compatible with the legacy call system.
+2.	The Overloading issue caused by idle user and peak time calling.
+3.	Long-term system maintenance.
+
+Security issue:
+1.	System hacking and unauthorized access.
+2.	Downtime issue.
+3.	Private user data protection issues 
+4.	Damage to the system by the misuse of the staff.
+
+Customer/RM
+1.	Unfamiliar with the UI and system functionalities.
+2.	User guide and frequently asked question constant renew among with the new system
+
+**Possible effects if project fails**
+If the development project fails, the major impact will be time invested and capital spent. At the current stage, The entire project plan costs $60,760.00, the waste of the capital may cause financial difficulties to the company, the capital spent can be used in other investment like advertising, it could have other feasible value. Consumed time is also another impact, including requirement gathering, scrum development, analysis, and the design of the prototype, to complete the above phases requires at least 3 months and it all wasted.
 
 
 ## Conclusion

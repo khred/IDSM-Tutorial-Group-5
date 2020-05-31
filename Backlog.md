@@ -59,4 +59,5 @@
 - [x] Gyeongmin Ko - Create Prototype 
 - [x] Gyeongmin Ko - Create HMW statements for stakeholders
 - [x] Congkai Liu - Conclusion 
+- [x] cheng zhang - Competitive advantages
 - - -

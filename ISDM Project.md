@@ -591,7 +591,7 @@ By using the "How Might We" problem statement, the team classified the main stat
 
 
 ## Work products and Models
-> Please shot work products 
+
 <!-- toc -->
 
 ### Use case diagrams

@@ -612,7 +612,7 @@ Activity diagram explaining both in/out direction of call center system
 
 ## Competitive advantages and Risk
 ### Competitive advantages
-> Please write potential benefits to the call centre (in terms of reducing cost and being able to carry out more effective calls)
+The call service center system we have introduced has great competitive advantages over the original system or other systems on the market. This automation provides customers with the best matching method, effectively reducing the complexity of the company's original system and meeting the needs of different customers. Users can know more clearly what problems should be solved by whom, greatly reducing the intermediate links, which enables each service request to be transmitted to the most appropriate service representative at the most appropriate time and in the most appropriate way, greatly optimizing the service process of tourism enterprises. Let tourists save more time and trust the services of our travel agencies. Similarly, our point-to-point service will avoid unnecessary labor waste and greatly reduce the operating cost of the company. It is the most important operation policy of our system to be able to provide value-added services for enterprises, improve service quality and reduce enterprise operation costs.
 
 ### Risk management
 <table style="border: none;border-collapse:collapse;">

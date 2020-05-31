@@ -42,26 +42,26 @@ Liang Yujun 12786277
 
 ## Problems and objective
 ### Problems
-The current solution of managing calls for this travel company’s call centre is unnecessarily complicated and due to having many holiday packages of different nature and type it is extremely difficult for the relationship managers (RM) to be able to provide a personalised and quality service to every customer. 
+The current solution of managing calls for this travel company’s call centre is unnecessarily complicated and due to having many holiday packages of different natures and type it is extremely difficult for the relationship managers (RM) to be able to provide a personalised and quality service to every customer. 
 
 ### Objective
-1. Store information on relationship managers relating to their age, sex, culture, language proficiency, experience and product knowlege in “RM Profiles”
+1. Store information on relationship managers relating to their age, sex, culture, language proficiency, experience and product knowledge in “RM Profiles”
 2. Use both the inbuilt RM Profiles and Profiler Tool to match relationship managers with high product knowledge to customer segments most likely to purchase that product.
 3. Use ongoing information such as how effective and efficient relationship managers are in selling packages to customers and updating that in their RM Profile.
 4. For outbound calls the system needs to extrapolate information from an external database to create a Profiler Tool and then match them with appropriate relationship managers based on their RM Profiles.
-5. Score customers who are more likely to call back on a scale of 1-10 based on factors such as if they repeat call and match them to appropriate relationship managers
-6. Have a Interactive Voice Response to gather information from the customers when they call to build their customer profile
-7. Have another interactive voice response during periods of high calls that asks more in depth questions to reduce perceived wait times for the customer and build a more comprehensive customer profile.
+5. Score customers who are more likely to call back on a scale of 1-10 based on factors such as if they repeat the call and match them to appropriate relationship managers
+6. Have an Interactive Voice Response to gather information from the customers when they call to build their customer profile
+7. Have another interactive voice response during periods of high calls that asks more in-depth questions to reduce perceived wait times for the customer and build a more comprehensive customer profile.
 8. Overall speed up the calling process to reduce lost sales due to long wait times
 
 
 ### Assumption 
 1. The system will be easy enough to use with little training
 2. The system will not be bottlenecked by hardware and will constantly be upgraded as needed
-3. Employees will be the main conveyor of information about holiday packages to customers and will be have a role in processing the sale 
-4.There will be continued software updates and bug fixes to keep the system working as expected
+3. Employees will be the main conveyor of information about holiday packages to customers and will have a role in processing the sale 
+4. There will be continued software updates and bug fixes to keep the system working as expected
 5. It is assumed that with the system it will raise sales by improving how calls are allocated to relationship managers
-6. It is assumed that the system is able to process human voices gathered from the interactive voice response and change it to text that can be used to create a customer profile
+6. It is assumed that the system can process human voices gathered from the interactive voice response and change it to text that can be used to create a customer profile
 
 ## Stakeholders
 ![Travel call centre Stakeholder](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Stakeholder_v2.jpg)
@@ -72,7 +72,7 @@ The current solution of managing calls for this travel company’s call centre i
 
 ### Empathy Design
 
-<!-- Use below HTML table fomat to update your Empathy map-----------
+<!-- Use below HTML table format to update your Empathy map-----------
 
 <table width="605">
 	<tbody>
@@ -559,21 +559,21 @@ The current solution of managing calls for this travel company’s call centre i
 **How might we**  
 In the Definition stage, our team investigated the general problems that Travel Company currently has, such as
 - Lack of workers to deal with future customers
-- Causing un-necessary time waste for both customers and staffs.
+- Causing un-necessary time waste for both customers and staff.
 - The communication and contract system between the call centre and travel agents is not clear. 
 - Even if the customer is connected to the employee or relationship manager, it is difficult to obtain accurate information.
 
-Therefore our team came up a with one clear problem statement.  
+Therefore our team came up with one clear problem statement.  
 **"How might we save time while delivering accurate information to customers and grow the company stably?**
 
-By using "How Might We" problem statement, the team classified the main statement features into three different views to effectively address the issues within the scope. 
+By using the "How Might We" problem statement, the team classified the main statement features into three different views to effectively address the issues within the scope. 
 
 **Relationship Manager(Employee)**  
 - How might we reduce work pressure for RM  
 - How might we increase the probability of a customer successfully placing an order  
 - How might we establish long-term cooperation with customers  
 - How might we increase RM's enthusiasm and motivation for work  
-- How might we improve the company's reputation in order to attract more customers  
+- How might we improve the company's reputation to attract more customers  
 
 **Travel Company CEO(Business)**
 - How might we reduce work pressure for employees within a sufficient budget.   
@@ -595,7 +595,7 @@ By using "How Might We" problem statement, the team classified the main statemen
 <!-- toc -->
 
 ### Use case diagrams
-Use case diagram of interaction between Customer and Call center employee 
+Use case diagram of the interaction between Customer and Call center employee 
 ![Use Case diagrams_Kevin](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Diagrams_Folder/Use%20Case%20Diagram.jpg)
 
 ### Activity diagrams
@@ -612,7 +612,7 @@ Activity diagram explaining both in/out direction of call center system
 
 ## Competitive advantages and Risk
 ### Competitive advantages
-> Please write potential benefits to the call centre(in terms of reducing cost and being able to carry out more effective calls)
+> Please write potential benefits to the call centre (in terms of reducing cost and being able to carry out more effective calls)
 
 ### Risk management
 <table style="border: none;border-collapse:collapse;">
@@ -774,7 +774,7 @@ Activity diagram explaining both in/out direction of call center system
     </tbody>
 </table>
 
-**Risk management and possible effects if project fails**  
+**Risk management and possible effects if the project fails**  
 **Risk factor:**  
 Technologies:
 1.	The new system may not too compatible with the legacy call system.
@@ -791,12 +791,12 @@ Customer/RM
 1.	Unfamiliar with the UI and system functionalities.
 2.	User guide and frequently asked question constant renew among with the new system
 
-**Possible effects if project fails**  
+**Possible effects if the project fails**  
 If the development project fails, the major impact will be time invested and capital spent. At the current stage, The entire project plan costs $60,760.00, the waste of the capital may cause financial difficulties to the company, the capital spent can be used in other investment like advertising, it could have other feasible value. Consumed time is also another impact, including requirement gathering, scrum development, analysis, and the design of the prototype, to complete the above phases requires at least 3 months and it all wasted.
 
 
 ## Conclusion
-The above is the improvement plan proposed by our group for the call center system of the travel company. Our improvement plan solves a series of problems such as the complexity of the company's package and low-quality customer service. We use a relatively simple development method to provide personalized and quality services for each customer, increasing the sales volume and reputation of the travel company. In the development process, we used the Scrum method for iterative development. Experience the advantages and disadvantages of Scrum development. In addition, through this project, we learned how to use Github and some new code, which increases our knowledge of the IT field. At the same time, we also believe that there is still room for improvement in this program improvement, and we look forward to more in-depth exploration next time.
+The above is the improvement plan proposed by our group for the call center system of the travel company. Our improvement plan solves a series of problems such as the complexity of the company's package and low-quality customer service. We use a relatively simple development method to provide personalized and quality services for each customer, increasing the sales volume and reputation of the travel company. In the development process, we used the Scrum method for iterative development. Experience the advantages and disadvantages of Scrum development. Also, through this project, we learned how to use Github and some new code, which increases our knowledge of the IT field. At the same time, we also believe that there is still room for improvement in this program improvement, and we look forward to more in-depth exploration next time.
 
 
 ## References
@@ -805,5 +805,4 @@ The above is the improvement plan proposed by our group for the call center syst
 
 
 ## Appendices
-> Please put appendics here
-
+> Please put appendices here

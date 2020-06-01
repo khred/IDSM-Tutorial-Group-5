@@ -51,7 +51,7 @@ The current solution of managing calls for this travel company’s call centre i
 4. For outbound calls the system needs to extrapolate information from an external database to create a Profiler Tool and then match them with appropriate relationship managers based on their RM Profiles.
 5. Score customers who are more likely to call back on a scale of 1-10 based on factors such as if they repeat the call and match them to appropriate relationship managers
 6. Have an Interactive Voice Response to gather information from the customers when they call to build their customer profile
-7. Have another interactive voice response during periods of high calls that asks more in-depth questions to reduce perceived wait times for the customer and build a more comprehensive customer profile.
+7. Have another interactive voice response that asks in-depth questions to reduce perceived wait times for the customer and build a more comprehensive customer profile.
 8. Overall speed up the calling process to reduce lost sales due to long wait times
 
 
@@ -61,7 +61,7 @@ The current solution of managing calls for this travel company’s call centre i
 3. Employees will be the main conveyor of information about holiday packages to customers and will have a role in processing the sale 
 4. There will be continued software updates and bug fixes to keep the system working as expected
 5. It is assumed that with the system it will raise sales by improving how calls are allocated to relationship managers
-6. It is assumed that the system can process human voices gathered from the interactive voice response and change it to text that can be used to create a customer profile
+6. It is assumed that the system can effectively process human voices gathered from the interactive voice response and change it to text that can be used to create a customer profile
 
 ## Stakeholders
 ![Travel call centre Stakeholder](https://github.com/khred/IDSM-Tutorial-Group-5/blob/master/Stakeholder_v2.jpg)
@@ -180,7 +180,7 @@ The current solution of managing calls for this travel company’s call centre i
 		<tr>
 			<td colspan="2" width="1000">
 				<p><strong>Empathy Map -&nbsp;System Testing leader</strong></p>
-				Due to the understaffed issue, system testing team is not able to deliver enough system testing analyses report with various measures and advise modifications/re-verification to the information system development team.                
+				Due to understaffing issues, the system testing team is not able to deliver enough system testing analyses report with various measures and advise modifications/re-verification to the information system development team.                
 			</td>
 		</tr>
 		<tr>
@@ -189,10 +189,10 @@ The current solution of managing calls for this travel company’s call centre i
 			</td>
 			<td width="481">
 		          <p>
-                    - how can we deliver perfect system testing to ensure to provide correct information process to the customers <br />
-                    - Feel pressured due to our team did not deliver enough feedback to the Information system Development (ISD) team.<br />
-                    - Feeling physically exhausted because of the understaffed on our team.  <br />
-                    - How can we deliver fast and accurate test report to the ISD team? <br />
+                    - How can we deliver perfect system testing to ensure that we provide correct information process to the customers <br />
+                    - We feel pressured due to our team didn't deliver enough feedback to the Information system Development (ISD) team.<br />
+                    - We feel physically exhausted because of the understaffing on our team.  <br />
+                    - How can we deliver a fast and accurate test report to the ISD team? <br />
                     - Should we develop the testing tool that helps us regarding our current project?<br />
                 </p>
 			</td>
@@ -216,8 +216,8 @@ The current solution of managing calls for this travel company’s call centre i
 		          <p> 
                     - Discussing the result and recommend modifications with the Project manager and ISD team <br />
                     - Speaking to the team regarding the system  <br />
-                    - Talking to the interaction novice system for testing  <br />
-                    - Presenting result to the ISD Team and Project manager 
+                    - Talking to the interactive voice system for testing  <br />
+                    - Presenting results to the ISD Team and Project manager 
                  </p>
 			</td>
 		</tr>
@@ -228,7 +228,7 @@ The current solution of managing calls for this travel company’s call centre i
 			<td width="481">
                     <p> 
                     - Creating a summary report for ISD Team and Project Manager <br />
-                    - Testing on the Interaction voice system  <br />
+                    - Testing the Interactive voice system  <br />
                     - Advise any recommendation/modification with ISD Team <br />
                     - Talking to the team regarding assigned tasks.
                  </p>
@@ -240,9 +240,9 @@ The current solution of managing calls for this travel company’s call centre i
 			<td width="481">
 		          <p> 
                     - Team member's voice that testing interaction voice system <br />
-                    - Team complain regarding understaffed <br />
+                    - Team complaints regarding understaffing <br />
                     - Project manager and ISD team asking for the report  <br />
-                    - Mechanical Interaction voice from the phone or speaker 
+                    - Robotive Interactive voice from the phone or speaker 
                 </p>
 			</td>
 		</tr>
@@ -252,9 +252,9 @@ The current solution of managing calls for this travel company’s call centre i
 			<td width="481">
 		          <p> 
                     - Repeat the same test process when ISD Team modifies the system regarding small or large changes<br />
-                    - Need to recruit more staff to reduce the workload <br />
+                    - High individual staff workload <br />
                     - Require flexible time mangement to provide more accurate and detail feedback <br />
-                    - Slowly cussing damage on every team member’s vocal cords due to testing interaction voice system. <br />
+                    - Slowly causing damage on every team member’s vocal cords due to testing interaction voice system. <br />
                 </p>
 			</td>
 		</tr>
@@ -266,8 +266,8 @@ The current solution of managing calls for this travel company’s call centre i
                     - The qualified interaction voice system will provide benefits to the company  <br />
                     - Faster caller matching process  <br />
                     - Satisfy customer by providing correct information system technology to save time. <br />
-                    - Improve technical knowledge regarding the interaction system and database implement system  <br />
-                    - Built a better relationship with another team by providing them with the quality result. <br />
+                    - Improve technical knowledge regarding the interactive system and database implement system  <br />
+                    - Built a better relationship with another team by providing them with high quality results. <br />
                 </p>
 			</td>
 		</tr>
@@ -289,8 +289,8 @@ The current solution of managing calls for this travel company’s call centre i
 			<td width="481">
 		          <p>
                     - How can we deliver an information system to develop the operation of in-house call management centre  <br />
-                    - No clue with the plan for building the new system, feel confused.<br />
-                    - Considering what kind of server and developing environment is suitable for the new system.  <br />
+                    - No clue about the plan for building the new system, feel confused.<br />
+                    - Considering what kind of server and development environment is suitable for the new system.  <br />
                     - Should we develop a user guide for first-time use? <br />
                                    </p>
 			</td>
@@ -311,9 +311,9 @@ The current solution of managing calls for this travel company’s call centre i
 			<td width="481">
 		          <p> 
                     - What kind of system and function do you want to develop? <br />
-                    - How do you match RM and the customer( the criteria)?<br />
-                    - What User interface style you preferred?<br />
-                    - Presenting new system to all employees. 
+                    - How do you match RM and the customer based on the infomation given <br />
+                    - What User interface style do you prefer? <br />
+                 
                  </p>
 			</td>
 		</tr>
@@ -323,10 +323,11 @@ The current solution of managing calls for this travel company’s call centre i
 			</td>
 			<td width="481">
                     <p> 
-                    - Develop a new system based on the requirement from RM and Customer. <br />
-                    - modifying the new system based on the suggestion from the System test team. <br />
+                    - Develop a new system based on the requirements from RM and customers. <br />
+                    - Modifying the new system based on the suggestion from the System test team. <br />
                     - Report the process of the new system to the project manager. <br />
                     - Debug and maintaining the system.
+		    - Presenting new system to all employees. 
                 </p>
 			</td>
 		</tr> 
@@ -335,9 +336,9 @@ The current solution of managing calls for this travel company’s call centre i
 				<p><strong>Hear</strong></p>
 			<td width="481">
 		          <p> 
-                    - Project manager asking finish the new system before the deadline <br />
-                    - The complaint from the customer regarding they want a skilled and well-matched customer <br />
-                    - The test result and suggestion from the system test team.ort  <br />
+                    - Project manager asking to finish the new system before the deadline <br />
+                    - The complaint from the customer wanting a skilled and well-matched relationship manager <br />
+                    - The test result and suggestion from the system test team  <br />
                     - The complaint from the user unfamiliar with the new system  
                 </p>
 			</td>
@@ -347,8 +348,8 @@ The current solution of managing calls for this travel company’s call centre i
 				<p><strong>Pain</strong></p>
 			<td width="481">
 		          <p> 
-                    - A large database and matching system requires a lot of resources, including space, server and time consuming(coding) <br />
-                    - Hard to build a customized information system without previous, existing examples. <br />
+                    - A large database and matching system requires a lot of resources, including space, time and server power which is hard to manage easily <br />
+                    - Hard to build a customized information system without previous, existing systems to develop off. <br />
                     - Hard to meet all requirement from project manager and Test team<br />
                               </p>
 			</td>
@@ -358,8 +359,8 @@ The current solution of managing calls for this travel company’s call centre i
 				<p><strong>Gain</strong></p>
 			<td width="481">
 		          <p> 
-                    - After development, their holiday packages sales benefit from the new system, sales increased, they got the pay  <br />
-                    - Develop their skill regarding building a  customized information system <br />
+                    - After development, their sales increase from more effectve matching and thus the team gets paid <br />
+                    - Develop their skill regarding building a customized information system <br />
                     - Satisfaction from RM a customer by providing a new information system.. <br />
                     - Through working with the other team, they gain communication skill. <br />
                 </p>
@@ -406,9 +407,11 @@ The current solution of managing calls for this travel company’s call centre i
 			</td>
 			<td width="481">
                     <p> 
-                    - What kind of package do you want to know <br />
+                    - What kind of package do you want to know about? <br />
                     - What is your price budget <br />
-                    - If you are not satisfied, I can introduce other content for you <br />
+		    - Where would you like to go?
+		    - What would you like to do?
+                    - If you are not satisfied, I can introduce other packages that may be better suited for you <br />
                 </p>
 			</td>
 		</tr>
@@ -429,8 +432,8 @@ The current solution of managing calls for this travel company’s call centre i
 			<td width="481">
 		          <p> 
                     - Colleagues complain that they need to answer too many calls a day <br />
-                    - The boss said to be supreme for every customer <br />
-                    - Friends say I'm listening to the phone all day <br />
+                    - The boss said to be attentive to for every customer and cater for their needs <br />
+                    - Friends say I'm on the phone all day <br />
                 </p>
 			</td>
 		</tr>
@@ -439,10 +442,10 @@ The current solution of managing calls for this travel company’s call centre i
 				<p><strong>Pain</strong></p>
 			<td width="481">
 		          <p> 
-                    - Lose customer <br />
-                    - Can't get a generous salary <br />
-                    - Work fatigue every day <br />
-                    - Be thoughtful when talking to customers 
+                    - Lose customer because I don't know enough about packages <br />
+                    - Can't get enough commissions/bonuses <br />
+                    - Fatigued every day from work<br />
+                  
                 </p>
 			</td>
 		</tr>
@@ -451,10 +454,10 @@ The current solution of managing calls for this travel company’s call centre i
 				<p><strong>Gain</strong></p>
 			<td width="481">
 		          <p> 
-                    - want to have more customers <br />
-                    - stablish long-term cooperation with customers <br />
+                    - Want to have more customers <br />
+                    - Establish long-term cooperation with customers <br />
                     - Each phone call does not need to waste too much time <br />
-                    - Higher performance，Get more commission 
+                    - Higher performance so that I can get higher commission 
                 </p>
 			</td>
 		</tr>
@@ -577,7 +580,7 @@ By using the "How Might We" problem statement, the team classified the main stat
 
 **Travel Company CEO(Business)**
 - How might we reduce work pressure for employees within a sufficient budget.   
-- How might increase our profit,  
+- How might increase our profit
 - How might we provide more high-quality services to Customers  
 - How might we improve company value  
  

@@ -36,8 +36,6 @@ Liang Yujun 12786277
 
 - [References](#references)
 
-- [Appendices](#appendices)
-
 <!--te-->
 
 ## Problems and objective
@@ -593,7 +591,9 @@ By using the "How Might We" problem statement, the team classified the main stat
 
 ## Work products and Models
 
-<!-- toc -->
+We made a few important points when we approached the design and prototype. The first point was a simple process. We decided that we should skip the complicated process and deliver the most accurate and relevant information to our customers. Next point was privacy. We tried to proceed with the process without requiring personal information as much as possible. The last point was to accurately understand the needs of the customers by meeting the requirements of the points above.
+
+We created AI voice interaction prototype system. During the AI voice interaction we simulated how customers actaully interacted with AI voices on peak time. 
 
 ### Use case diagrams
 Use case diagram of the interaction between Customer and Call center employee 
@@ -801,9 +801,20 @@ The above is the improvement plan proposed by our group for the call center syst
 
 
 ## References
-> Please put references here
+David, B. 2016, Agile Coaching Tip: What is an Empathy Map, viewed 24 August 2020, < https://www.solutionsiq.com/resource/blog-post/what-is-an-empathy-map/>.
 
+Jennifer, B. 2018, Empathy Mapping: A Guide to Getting Inside a User’s viewed 24 August 2020, < https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/>.
 
+Kahootz 2019,How to create an effective stakeholder engagement stratege, viewed 20 May 2020,<https://www.kahootz.com/how-to-create-an-effective-stakeholder-engagement-strategy/
 
-## Appendices
-> Please put appendices here
+Kevin, M. 2019, UML Collaboration Diagrams viewed 27 May 2020, 
+< https://www.codemag.com/Article/0205051/UML-Collaboration-Diagrams>.
+
+Lucidchart 2018, UML Use Case Diagram, 26 May 2020, 
+< https://www.lucidchart.com/pages/uml-use-case-diagram>.
+
+Lucidchart 2018, UML Class Diagram Tutorial, viewed 26 May 2020, 
+< https://www.lucidchart.com/pages/uml-class-diagram >.
+
+MindTools, Empathy Mapping, Understanding Targeted, viewed 24 May 2020, 
+< https://www.mindtools.com/pages/article/empathy-mapping.htm>

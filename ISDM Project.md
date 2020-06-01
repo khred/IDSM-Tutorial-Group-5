@@ -778,22 +778,22 @@ The call service center system we have introduced has great competitive advantag
 **Risk management and possible effects if the project fails**  
 **Risk factor:**  
 Technologies:
-1.	The new system may not too compatible with the legacy call system.
-2.	The Overloading issue caused by idle user and peak time calling.
+1.	The new system may not be compatible with the legacy call system.
+2.	The Overloading issue caused by idle users and peak time calling.
 3.	Long-term system maintenance.
 
 Security issue:
 1.	System hacking and unauthorized access.
 2.	Downtime issue.
 3.	Private user data protection issues 
-4.	Damage to the system by the misuse of the staff.
+4.	Damage to the system by staff misuse.
 
 Customer/RM
 1.	Unfamiliar with the UI and system functionalities.
 2.	User guide and frequently asked question constant renew among with the new system
 
 **Possible effects if the project fails**  
-If the development project fails, the major impact will be time invested and capital spent. At the current stage, The entire project plan costs $60,760.00, the waste of the capital may cause financial difficulties to the company, the capital spent can be used in other investment like advertising, it could have other feasible value. Consumed time is also another impact, including requirement gathering, scrum development, analysis, and the design of the prototype, to complete the above phases requires at least 3 months and it all wasted.
+If the development project fails, the major impact will be time invested and capital spent. At the current stage, The entire project plan costs $60,760.00, the waste of capital may cause financial difficulties to the company, the capital spent can be used in other parts of the business like advertising. Consumed time is also another impact, including requirement gathering, scrum development, analysis, and the design of the prototype, to complete the above phases requires at least 3 months which may be wasted.
 
 
 ## Conclusion

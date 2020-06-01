@@ -313,7 +313,6 @@ The current solution of managing calls for this travel company’s call centre i
                     - What kind of system and function do you want to develop? <br />
                     - How do you match RM and the customer based on the infomation given <br />
                     - What User interface style do you prefer? <br />
-                 
                  </p>
 			</td>
 		</tr>
@@ -445,7 +444,6 @@ The current solution of managing calls for this travel company’s call centre i
                     - Lose customer because I don't know enough about packages <br />
                     - Can't get enough commissions/bonuses <br />
                     - Fatigued every day from work<br />
-                  
                 </p>
 			</td>
 		</tr>
